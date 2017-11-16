@@ -1,0 +1,16 @@
+C:\users\stm\Visual Studio 2008\Projects\MotionControlTest\MotionControlTest\obj\Debug\ResolveAssemblyReference.cache
+C:\users\stm\Visual Studio 2008\Projects\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.Form1.resources
+C:\users\stm\Visual Studio 2008\Projects\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.Properties.Resources.resources
+C:\users\stm\Visual Studio 2008\Projects\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.csproj.GenerateResource.Cache
+C:\users\stm\Visual Studio 2008\Projects\MotionControlTest\MotionControlTest\bin\Debug\MotionControlTest.exe
+C:\users\stm\Visual Studio 2008\Projects\MotionControlTest\MotionControlTest\bin\Debug\MotionControlTest.pdb
+C:\users\stm\Visual Studio 2008\Projects\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.exe
+C:\users\stm\Visual Studio 2008\Projects\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.pdb
+C:\users\stm\q_ent\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.exe
+C:\users\stm\q_ent\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.pdb
+C:\users\stm\q_ent\MotionControlTest\MotionControlTest\bin\Debug\MotionControlTest.exe
+C:\users\stm\q_ent\MotionControlTest\MotionControlTest\bin\Debug\MotionControlTest.pdb
+C:\users\stm\q_ent\MotionControlTest\MotionControlTest\obj\Debug\ResolveAssemblyReference.cache
+C:\users\stm\q_ent\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.Form1.resources
+C:\users\stm\q_ent\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.Properties.Resources.resources
+C:\users\stm\q_ent\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.csproj.GenerateResource.Cache

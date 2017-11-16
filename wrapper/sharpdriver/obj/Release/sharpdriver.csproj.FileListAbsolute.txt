@@ -1,0 +1,12 @@
+C:\Users\Flex\dllwrap\wrapper\Release\sharpdriver.exe.config
+C:\Users\Flex\dllwrap\wrapper\Release\sharpdriver.exe
+C:\Users\Flex\dllwrap\wrapper\Release\sharpdriver.pdb
+C:\Users\Flex\dllwrap\wrapper\sharpdriver\obj\Release\sharpdriver.csprojResolveAssemblyReference.cache
+C:\Users\Flex\dllwrap\wrapper\sharpdriver\obj\Release\sharpdriver.exe
+C:\Users\Flex\dllwrap\wrapper\sharpdriver\obj\Release\sharpdriver.pdb
+C:\Users\Flex\Desktop\test\Solliance_CanApi_Wapper_20170531\wrapper\Release\sharpdriver.exe.config
+C:\Users\Flex\Desktop\test\Solliance_CanApi_Wapper_20170531\wrapper\Release\sharpdriver.exe
+C:\Users\Flex\Desktop\test\Solliance_CanApi_Wapper_20170531\wrapper\Release\sharpdriver.pdb
+C:\Users\Flex\Desktop\test\Solliance_CanApi_Wapper_20170531\wrapper\sharpdriver\obj\Release\sharpdriver.csprojResolveAssemblyReference.cache
+C:\Users\Flex\Desktop\test\Solliance_CanApi_Wapper_20170531\wrapper\sharpdriver\obj\Release\sharpdriver.exe
+C:\Users\Flex\Desktop\test\Solliance_CanApi_Wapper_20170531\wrapper\sharpdriver\obj\Release\sharpdriver.pdb

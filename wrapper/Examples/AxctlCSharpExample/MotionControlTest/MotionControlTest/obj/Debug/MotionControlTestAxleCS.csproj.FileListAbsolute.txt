@@ -1,0 +1,8 @@
+C:\Users\Flex\dllwrap\wrapper\Examples\Debug\MotionControlTest.exe.config
+C:\Users\Flex\dllwrap\wrapper\Examples\Debug\MotionControlTest.exe
+C:\Users\Flex\dllwrap\wrapper\Examples\Debug\MotionControlTest.pdb
+C:\Users\Flex\dllwrap\wrapper\Examples\AxctlCSharpExample\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.Form1.resources
+C:\Users\Flex\dllwrap\wrapper\Examples\AxctlCSharpExample\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.Properties.Resources.resources
+C:\Users\Flex\dllwrap\wrapper\Examples\AxctlCSharpExample\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTestAxleCS.csproj.GenerateResource.Cache
+C:\Users\Flex\dllwrap\wrapper\Examples\AxctlCSharpExample\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.exe
+C:\Users\Flex\dllwrap\wrapper\Examples\AxctlCSharpExample\MotionControlTest\MotionControlTest\obj\Debug\MotionControlTest.pdb

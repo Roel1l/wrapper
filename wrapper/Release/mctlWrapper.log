@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+  mctlWrapper.cpp
+  stdafx.cpp
+     Creating library C:\Users\Flex\Desktop\test\Solliance_CanApi_Wapper_20170531\wrapper\Release\mctlWrapper.lib and object C:\Users\Flex\Desktop\test\Solliance_CanApi_Wapper_20170531\wrapper\Release\mctlWrapper.exp
+  Generating code
+  All 85 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  mctlWrapper.vcxproj -> C:\Users\Flex\Desktop\test\Solliance_CanApi_Wapper_20170531\wrapper\Release\mctlWrapper.dll

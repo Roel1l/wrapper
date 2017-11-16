@@ -1,0 +1,6 @@
+C:\Users\Flex\dllwrap\wrapper\Debug\sharpdriver.exe.config
+C:\Users\Flex\dllwrap\wrapper\Debug\sharpdriver.exe
+C:\Users\Flex\dllwrap\wrapper\Debug\sharpdriver.pdb
+C:\Users\Flex\dllwrap\wrapper\sharpdriver\obj\Debug\sharpdriver.csprojResolveAssemblyReference.cache
+C:\Users\Flex\dllwrap\wrapper\sharpdriver\obj\Debug\sharpdriver.exe
+C:\Users\Flex\dllwrap\wrapper\sharpdriver\obj\Debug\sharpdriver.pdb

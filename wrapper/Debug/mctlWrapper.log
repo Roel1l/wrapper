@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  stdafx.cpp
+  mctlWrapper.cpp
+  Generating Code...
+     Creating library C:\Users\Flex\dllwrap\wrapper\Debug\mctlWrapper.lib and object C:\Users\Flex\dllwrap\wrapper\Debug\mctlWrapper.exp
+  mctlWrapper.vcxproj -> C:\Users\Flex\dllwrap\wrapper\Debug\mctlWrapper.dll
+  mctlWrapper.vcxproj -> C:\Users\Flex\dllwrap\wrapper\Debug\mctlWrapper.pdb (Partial PDB)
